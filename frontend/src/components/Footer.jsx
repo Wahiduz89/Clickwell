@@ -35,11 +35,10 @@ const Footer = () => {
 
       </div>
 
-        <div>
-            <hr />
-            <p className='py-5 text-sm text-center text-black'>Copyright 2024@ Clickwell.com - All Right Reserved.</p>
-        </div>
-
+      <div className="bg-gray-900 text-white">
+        <hr className="border-gray-700" />
+        <p className='py-5 text-sm text-center'>Copyright 2025@ Clickwell.com - All Rights Reserved.</p>
+      </div>
     </div>
   )
 }
